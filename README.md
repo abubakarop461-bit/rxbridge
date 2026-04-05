@@ -3,6 +3,10 @@
 
 > "Google Translate for your medicine bill"
 
+## Screenshots
+![Home](screenshots/home.png)
+![Results](screenshots/results.png)
+
 ## Problem
 Indian families overpay up to 90% on medicines because
 nobody tells them generic equivalents exist.
@@ -22,7 +26,7 @@ Jan Aushadhi store to buy them.
 
 ## Team Apex
 - Abubakar — Backend + AI
-- [Teammate name] — Frontend
+- Zaid Sayeed— Frontend
 
 ## Run Locally
 
@@ -38,6 +42,6 @@ npm run dev
 
 ## Impact
 - 30+ medicines in database
-- Covers most common Indian prescriptions
+- Covers most common Indian prescriptions  
 - Nagpur Jan Aushadhi store locator included
 - Works offline, no API dependencies
